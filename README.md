@@ -1,5 +1,5 @@
 🌐 Social Links Profile – Page de profil réseaux sociaux  
-Social Links Profile est une page web statique conçue pour présenter vos liens sociaux de manière élégante et moderne.  
+Social Links Profile est une page web statique conçue pour présenter vos liens sociaux de manière élégante et moderne.   
 Le projet offre une solution simple et efficace pour centraliser vos différents profils sur une seule page.
 
 📄 Contenu inclus :  
